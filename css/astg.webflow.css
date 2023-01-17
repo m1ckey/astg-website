@@ -308,11 +308,11 @@ a {
   font-weight: 700;
 }
 
-.tap-link {
+.tab-link {
   background-color: #fff;
 }
 
-.tap-link.w--current {
+.tab-link.w--current {
   background-color: #027db1;
   color: #fff;
 }
@@ -376,16 +376,6 @@ a {
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
-}
-
-.awards-paragraph {
-  margin-bottom: 40px;
-  text-align: center;
-}
-
-.awards-heading {
-  margin-top: 40px;
-  text-align: center;
 }
 
 .partner-link-block {
