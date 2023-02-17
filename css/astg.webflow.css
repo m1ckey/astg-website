@@ -410,6 +410,24 @@ a {
   background-color: rgba(0, 36, 51, 0.8);
 }
 
+.newsletter-signups {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+}
+
+.newsletter-button-english {
+  text-align: center;
+}
+
+.newsletter-button-german {
+  text-align: center;
+}
+
 @media screen and (max-width: 991px) {
   .nav-menu {
     background-color: #fff;
