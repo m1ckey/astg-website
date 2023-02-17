@@ -418,6 +418,11 @@ a {
   -webkit-justify-content: space-around;
   -ms-flex-pack: distribute;
   justify-content: space-around;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
 }
 
 .newsletter-button-english {
