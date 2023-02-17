@@ -421,11 +421,31 @@ a {
 }
 
 .newsletter-button-english {
+  border-style: dashed;
+  border-width: 4px;
+  border-color: #f7931e;
+  border-radius: 20px;
+  background-color: rgba(56, 152, 236, 0);
+  color: #f7931e;
   text-align: center;
 }
 
+.newsletter-button-english:hover {
+  background-color: rgba(247, 147, 30, 0.1);
+}
+
 .newsletter-button-german {
+  border-style: dashed;
+  border-width: 4px;
+  border-color: #f7931e;
+  border-radius: 20px;
+  background-color: rgba(247, 147, 30, 0);
+  color: #f7931e;
   text-align: center;
+}
+
+.newsletter-button-german:hover {
+  background-color: rgba(247, 147, 30, 0.1);
 }
 
 @media screen and (max-width: 991px) {
