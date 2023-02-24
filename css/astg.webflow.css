@@ -453,6 +453,20 @@ a {
   background-color: rgba(247, 147, 30, 0.1);
 }
 
+.banner-section {
+  padding: 5px 20px;
+  background-color: #f7931e;
+  color: #002433;
+}
+
+.text-block {
+  text-align: center;
+}
+
+.banner-link {
+  color: #002433;
+}
+
 @media screen and (max-width: 991px) {
   .nav-menu {
     background-color: #fff;
