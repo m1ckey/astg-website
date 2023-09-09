@@ -291,12 +291,12 @@ a {
   overflow: visible;
 }
 
-.project-image-rocket-vertical {
+.project-image-rocket-horizontal {
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-.project-image-rocket-horizontal {
+.project-image-rocket-vertical {
   height: 60vh;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -385,7 +385,7 @@ a {
   }
 
   .project-image {
-    width: 100px;
+    width: 90px;
     padding: 10px 0 10px 10px;
   }
 
@@ -409,14 +409,16 @@ a {
     align-items: flex-start;
   }
 
-  .project-image-rocket-vertical {
+  .project-image-rocket-horizontal {
     padding: 10px;
     display: none;
   }
 
-  .project-image-rocket-horizontal {
-    float: right;
-    padding: 10px;
+  .project-image-rocket-vertical {
+    height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px 10px;
     display: block;
   }
 }
