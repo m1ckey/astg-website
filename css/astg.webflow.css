@@ -1,3 +1,10 @@
+:root {
+  --black: #333;
+  --accent: #f7931e;
+  --midnight-blue: #002433;
+  --steel-blue: #027db1;
+}
+
 .w-embed-youtubevideo {
   width: 100%;
   background-image: url('https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg');
@@ -15,14 +22,14 @@
 }
 
 body {
-  color: #333;
+  color: var(--black);
   font-family: Opensans, sans-serif;
   font-size: 16px;
   line-height: 1.25;
 }
 
 a {
-  color: #f7931e;
+  color: var(--accent);
   text-decoration: underline;
 }
 
@@ -78,7 +85,7 @@ a {
 }
 
 .menu-button {
-  color: #002433;
+  color: var(--midnight-blue);
 }
 
 .section {
@@ -113,21 +120,21 @@ a {
 }
 
 .nav-link.w--current {
-  color: #027db1;
+  color: var(--steel-blue);
 }
 
 .footer-link {
-  color: #333;
+  color: var(--black);
   text-align: center;
 }
 
 .tabs-menu {
-  border-bottom: 1px solid #002433;
+  border-bottom: 1px solid var(--midnight-blue);
 }
 
 .dark-body {
+  background-color: var(--midnight-blue);
   color: #fff;
-  background-color: #002433;
 }
 
 .sponsor-image-initiative {
@@ -316,10 +323,10 @@ a {
 }
 
 .newsletter-button-english {
-  color: #f7931e;
+  border: 4px dashed var(--accent);
+  color: var(--accent);
   text-align: center;
   background-color: rgba(56, 152, 236, 0);
-  border: 4px dashed #f7931e;
   border-radius: 20px;
 }
 
@@ -328,10 +335,10 @@ a {
 }
 
 .newsletter-button-german {
-  color: #f7931e;
+  border: 4px dashed var(--accent);
+  color: var(--accent);
   text-align: center;
   background-color: rgba(247, 147, 30, 0);
-  border: 4px dashed #f7931e;
   border-radius: 20px;
 }
 
@@ -340,8 +347,8 @@ a {
 }
 
 .banner-section {
-  color: #002433;
-  background-color: #f7931e;
+  background-color: var(--accent);
+  color: var(--midnight-blue);
   padding: 5px 20px;
 }
 
@@ -350,7 +357,7 @@ a {
 }
 
 .banner-link {
-  color: #002433;
+  color: var(--midnight-blue);
 }
 
 @media screen and (max-width: 991px) {
@@ -359,7 +366,7 @@ a {
   }
 
   .icon {
-    color: #002433;
+    color: var(--midnight-blue);
   }
 }
 
