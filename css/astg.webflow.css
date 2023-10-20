@@ -440,6 +440,10 @@ a {
   .hero-text-award {
     font-size: 24px;
   }
+
+  .bold-text {
+    font-size: 22px;
+  }
 }
 
 
