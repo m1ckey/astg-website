@@ -365,7 +365,7 @@ a {
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
-  font-size: 32px;
+  font-size: 18px;
 }
 
 @media screen and (max-width: 991px) {
@@ -435,10 +435,6 @@ a {
     margin-right: auto;
     padding: 40px 10px;
     display: block;
-  }
-
-  .hero-text-award {
-    font-size: 22px;
   }
 }
 
