@@ -271,21 +271,21 @@ a {
 }
 
 .slide-2 {
-  background-image: url('../images/team_euroc_2023.webp');
+  background-image: url('../images/halcyon_liftoff.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .slide-3 {
-  background-image: url('../images/featured_03.webp');
+  background-image: url('../images/halcyon_parachute.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .slide-4 {
-  background-image: url('../images/featured_04.webp');
+  background-image: url('../images/flyout_big.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -366,6 +366,20 @@ a {
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 18px;
+}
+
+.slide-5 {
+  background-image: url('../images/featured_03.webp');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.slide-6 {
+  background-image: url('../images/featured_04.webp');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 @media screen and (max-width: 991px) {
