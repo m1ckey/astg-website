@@ -388,12 +388,6 @@ a {
   background-size: contain;
 }
 
-.sectiontitle {
-  margin-top: -10px;
-  margin-bottom: 20px;
-  font-weight: 700;
-}
-
 .halcyon-schematic-image {
   width: 400px;
   float: right;
