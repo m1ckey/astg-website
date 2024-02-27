@@ -420,6 +420,10 @@ a {
     width: 200px;
   }
 
+  .sponsors {
+    flex-direction: column;
+  }
+
   .slider {
     height: 600px;
   }
