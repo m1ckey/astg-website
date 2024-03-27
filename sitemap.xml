@@ -9,52 +9,92 @@
 
 <url>
   <loc>https://astg.at/</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://astg.at/.</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://astg.at/projects</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://astg.at/team</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://astg.at/partners</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://astg.at/contact</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://astg.at/projects/aves</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://astg.at/projects/aves-2</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://astg.at/imprint</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://astg.at/projects/halcyon</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://astg.at/imprint</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://astg.at/documents/astg_privacy_policy.pdf</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://astg.at/projects/alcedo</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://astg.at/projects/apex</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://astg.at/projects/spatz</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://astg.at/projects/penguin</loc>
-  <lastmod>2023-01-13T18:34:53+00:00</lastmod>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://astg.at/documents/ASTG_AVES_technical_poster_final.pdf</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://astg.at/documents/ASTG_AVES_II_poster_euroc22_A0_print.pdf</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://astg.at/documents/ASTG_Halcyon_Poster.pdf</loc>
+  <lastmod>2024-03-27T15:12:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
