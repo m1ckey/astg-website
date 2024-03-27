@@ -6,10 +6,10 @@
 }
 
 .w-embed-youtubevideo {
-  width: 100%;
   background-image: url('https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg');
   background-position: 50%;
   background-size: cover;
+  width: 100%;
   padding-bottom: 0;
   padding-left: 0;
   padding-right: 0;
@@ -40,19 +40,19 @@ a {
 }
 
 .utility-page-wrap {
-  width: 100vw;
-  height: 100vh;
-  max-height: 100%;
-  max-width: 100%;
   justify-content: center;
   align-items: center;
+  width: 100vw;
+  max-width: 100%;
+  height: 100vh;
+  max-height: 100%;
   display: flex;
 }
 
 .utility-page-content {
-  width: 260px;
   text-align: center;
   flex-direction: column;
+  width: 260px;
   display: flex;
 }
 
@@ -83,8 +83,8 @@ a {
 }
 
 .hero-section {
-  height: 100vh;
   align-items: center;
+  height: 100vh;
   padding-left: 20px;
   padding-right: 20px;
   display: flex;
@@ -120,8 +120,8 @@ a {
 }
 
 .project-image {
-  width: 300px;
   float: right;
+  width: 300px;
   padding: 20px;
 }
 
@@ -144,8 +144,8 @@ a {
 }
 
 .sponsor-image-initiative {
-  max-height: 200px;
   max-width: 400px;
+  max-height: 200px;
 }
 
 .sponsors {
@@ -158,23 +158,23 @@ a {
 }
 
 .sponsor-image-platin {
-  max-height: 175px;
   max-width: 350px;
+  max-height: 175px;
 }
 
 .sponsor-image-gold {
-  max-height: 125px;
   max-width: 250px;
+  max-height: 125px;
 }
 
 .sponsor-image-silver {
-  max-height: 100px;
   max-width: 200px;
+  max-height: 100px;
 }
 
 .sponsor-image-bronze {
-  max-height: 100px;
   max-width: 150px;
+  max-height: 100px;
 }
 
 .sponsor-heading {
@@ -184,8 +184,8 @@ a {
 }
 
 .sponsor-image-white {
-  max-height: 100px;
   max-width: 120px;
+  max-height: 100px;
 }
 
 .hero-image {
@@ -272,8 +272,8 @@ a {
 }
 
 .slider {
-  height: 800px;
   background-color: rgba(255, 255, 255, 0);
+  height: 800px;
 }
 
 .slide-2 {
@@ -389,8 +389,8 @@ a {
 }
 
 .halcyon-schematic-image {
-  width: 400px;
   float: right;
+  width: 400px;
   padding: 20px;
 }
 
