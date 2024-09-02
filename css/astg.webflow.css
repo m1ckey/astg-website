@@ -70,7 +70,6 @@ a {
   background-color: #fff;
   padding-top: 10px;
   padding-bottom: 10px;
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
 }
@@ -272,7 +271,7 @@ a {
 }
 
 .slider {
-  background-color: rgba(255, 255, 255, 0);
+  background-color: #fff0;
   height: 800px;
 }
 
@@ -317,7 +316,7 @@ a {
 }
 
 .home-text-container {
-  background-color: rgba(0, 36, 51, .8);
+  background-color: #002433cc;
 }
 
 .newsletter-signups {
@@ -328,28 +327,28 @@ a {
   display: flex;
 }
 
-.newsletter-button-english {
+.join-newsletter-english-button {
   border: 4px dashed var(--accent);
   color: var(--accent);
   text-align: center;
-  background-color: rgba(56, 152, 236, 0);
+  background-color: #3898ec00;
   border-radius: 20px;
 }
 
-.newsletter-button-english:hover {
-  background-color: rgba(247, 147, 30, .1);
+.join-newsletter-english-button:hover {
+  background-color: #f7931e1a;
 }
 
-.newsletter-button-german {
+.join-newsletter-german-button {
   border: 4px dashed var(--accent);
   color: var(--accent);
   text-align: center;
-  background-color: rgba(247, 147, 30, 0);
+  background-color: #f7931e00;
   border-radius: 20px;
 }
 
-.newsletter-button-german:hover {
-  background-color: rgba(247, 147, 30, .1);
+.join-newsletter-german-button:hover {
+  background-color: #f7931e1a;
 }
 
 .banner-section {
@@ -372,6 +371,7 @@ a {
   padding-top: 20px;
   padding-bottom: 20px;
   font-size: 18px;
+  display: none;
 }
 
 .slide-5 {
@@ -403,6 +403,18 @@ a {
   grid-row-gap: 10px;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.join-astg-button {
+  border: 4px dashed var(--accent);
+  color: var(--accent);
+  text-align: center;
+  background-color: #3898ec00;
+  border-radius: 20px;
+}
+
+.join-astg-button:hover {
+  background-color: #f7931e1a;
 }
 
 @media screen and (max-width: 991px) {
