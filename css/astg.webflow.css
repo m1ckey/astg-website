@@ -289,13 +289,6 @@ a {
   background-size: contain;
 }
 
-.slide-flyout-2024 {
-  background-image: url('../images/flyout_2024.jpg');
-  background-position: 50%;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
 .partner-link-block {
   justify-content: center;
   align-items: center;
@@ -380,13 +373,6 @@ a {
   background-size: contain;
 }
 
-.slide-euroc-2021 {
-  background-image: url('../images/featured_04.webp');
-  background-position: 50%;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
 .halcyon-schematic-image {
   float: right;
   width: 400px;
@@ -421,16 +407,6 @@ a {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
-}
-
-.slider-2 {
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
-  background-position: 0 0;
-  background-size: auto;
-}
-
-.slider-3 {
-  background-image: none;
 }
 
 .slide-mach-diamonds {
