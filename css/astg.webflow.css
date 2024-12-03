@@ -366,7 +366,7 @@ a {
   font-size: 18px;
 }
 
-.slide-euroc-2022 {
+.slide-euroc-2021 {
   background-image: url('../images/featured_03.webp');
   background-position: 50%;
   background-repeat: no-repeat;
@@ -411,6 +411,13 @@ a {
 
 .slide-mach-diamonds {
   background-image: url('../images/mach_diamonds_horizontal_1.webp');
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.slide-flyout-2024 {
+  background-image: url('../images/flyout_2024.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
