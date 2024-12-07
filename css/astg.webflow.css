@@ -423,6 +423,21 @@ a {
   background-size: contain;
 }
 
+.pelican-image-box {
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+  flex-flow: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+}
+
+.pelican-image, .image {
+  width: 400px;
+}
+
 @media screen and (max-width: 991px) {
   .nav-menu, .menu-button.w--open {
     background-color: #fff;
